@@ -1,0 +1,6 @@
+{
+	"name": "sourcemap",
+	"tree": {
+		"$path": {"optional": "../../../../sourcemap.json"}
+	}
+}
